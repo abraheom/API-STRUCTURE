@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "nodemon index.ts --exec ts-node",
-    "CreateEndPoint":"node generators/CreateEndpoint.js"
+    "CreateEndPoint": "node generators/CreateEndpoint.js"
   },
   "keywords": [],
   "author": "",

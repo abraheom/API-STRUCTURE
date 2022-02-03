@@ -4,13 +4,13 @@ Proyecto básico para la creación de una API REST con Node.js
 ## Instalacion
 #### Clonar repositorio
 ```sh
-git clone git@github.com:abraheom/API-STRUCTURE.git
+git clone https://github.com/abraheom/API-STRUCTURE.git
 ```
-
-#### Instalar módulos globales
+#### Entrar a la carpeta del proyecto
 ```sh
-npm i -g typescript
+cd API-STRUCTURE
 ```
+#### Instalar módulos globales
 ```sh
 npm i -g nodemon
 ```
